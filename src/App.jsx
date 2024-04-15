@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      
+      <div> landing </div>
+      <div> landing </div>
     </>
   )
 }
